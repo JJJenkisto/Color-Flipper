@@ -1,0 +1,46 @@
+#Red {
+    background-color: red;
+}
+#Green {
+    background-color: greenyellow;
+}
+
+#Blue {
+    background-color: blue;
+}
+
+#Rand {
+    background: linear-gradient(90deg,rgba(42, 123, 205, 1) 0%, rgba(87, 99, 33, 1) 50%, rgba(237, 21, 83, 1) 100%);
+}
+
+#Default {
+    width: 220px;
+}
+
+#pog {
+    display: flex;
+}
+
+button {
+  border-radius: 25%;
+  width: 100px;
+  height: 70px;
+  margin: 5px;
+}
+
+h3 {
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    width: 20%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 100px (0, 0, 0, 0.5);
+    border: 3px solid rgba(255,255,255,0.20);
+    backdrop-filter: blur(10px);
+}
+
+
+
+
+
